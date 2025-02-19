@@ -21,7 +21,7 @@ To setup the project in your machine:
 
 ```console
 
-git clone https://github.com/moseskamira/Transaction-Analytics-Dashboard.git
+git clone https://github.com/Mayank-2022/Transaction-Analytics-Dashboard.git
 ```
 
 - CD into the repo
